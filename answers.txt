@@ -1,3 +1,3 @@
-What is a remote repository?
+What is the difference between a merge and a rebase?
 
-A remote repository is a place hosted on the internet, like on GitHub, where versions of your code can be stored and viewed. 
+A merge is when you combine changes from both brnaches whereas rebase is when you need to create a new set of commits on top of the target branch. 
